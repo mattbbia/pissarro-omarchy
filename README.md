@@ -1,46 +1,72 @@
-# Pissarro
+# Omarchy Camille Pissarro Theme
 
-An Omarchy theme inspired by the paintings of Camille Pissarro.
+A light Omarchy theme inspired by the landscapes and city scenes of Camille Pissarro.
 
-## Preview
+![[preview.png]]
 
-![Theme Preview](preview.png)
-
+---
 ## Inspiration
 
-This theme draws its colors from the work of French Impressionist painter Camille Pissarro (1830–1903). The palette emphasizes muted earth tones, soft greens, warm golds, and natural contrasts commonly found throughout his landscapes and rural scenes.
+Camille Pissarro (1830–1903) was a Danish-French Impressionist painter known for his depictions of everyday life, landscapes, and urban scenes. His paintings are celebrated for their natural light, atmospheric perspective, and harmonious use of color.
 
-Artwork used for inspiration is in the public domain.
+I chose Pissarro because his work feels calm and timeless. The soft earth tones, muted greens, and warm creams translate beautifully into a desktop environment that is both functional and relaxing to use for long periods.
 
-## Palette
+---
 
-| Color      | Hex       |
-| ---------- | --------- |
-| Background | `#1E1E1A` |
-| Foreground | `#D8D2C3` |
-| Primary    | `#687013` |
-| Secondary  | `#A78E5D` |
-| Accent     | `#C9B06A` |
+## Wallpaper Gallery
 
-*(Adjust these values to match your actual palette.)*
+This theme includes six carefully selected paintings:
+
+| Preview                                          | Artwork                                     |
+| ------------------------------------------------ | ------------------------------------------- |
+| ![[A Creek In St. Thomas 1856.jpg]]              | A Creek in St. Thomas (1856)                |
+| ![[Landscape Ile De France 1873.jpg]]            | Landscape, Île-de-France (1873)             |
+| ![[Charing Cross Bridge London 1890.jpg]]        | Charing Cross Bridge, London (1890)         |
+| ![[Hampton Court Green 1891.jpg]]                | Hampton Court Green (1891)                  |
+| ![[Place Du Carrousel Paris 1900.jpg]]           | Place du Carrousel, Paris (1900)            |
+| ![[The Louvre Afternoon Rainy Weather 1900.jpg]] | The Louvre, Afternoon, Rainy Weather (1900) |
+
+---
+
+## Color Palette
+
+The theme palette is derived directly from the selected paintings.
+
+---
+
+## Included Theme Components
+
+- Wallpapers
+- Hyprland
+- Waybar
+- Neovim
+- Btop
+- VS Code
+- Terminal colors (`colors.toml`)
+- Icons
+- Light mode configuration
+
+---
 
 ## Installation
 
-Clone or copy the theme into your Omarchy themes directory:
+Clone the repository into your Omarchy themes directory:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/omarchy-pissarro.git
+git clone https://github.com/<username>/omarchy-camille-pissarro-theme \
+~/Pictures/omarchy-themes/omarchy-camille-pissarro-theme
 ```
 
-Then select the theme through Omarchy's theme menu.
+Then activate it through Omarchy's theme picker.
 
-## Artist
+---
 
-Camille Pissarro was a Danish-French Impressionist and Neo-Impressionist painter known for his landscapes, rural scenes, and influence on many of the leading artists of the late nineteenth century.
+## Acknowledgements
+
+All artwork by Camille Pissarro is in the public domain. The high-resolution source images used in this theme were obtained from [National Gallery of Art](https://www.nga.gov/) and are included here for appreciation and preservation of public-domain art.
+
+---
 
 ## License
 
-The theme itself is released under the MIT License.
-
-The original artwork that inspired this theme is believed to be in the public domain.
-# pissarro-omarchy
+The theme configuration files are released under the MIT License. Public-domain artwork remains subject to the attribution and usage guidelines provided by the originating museum or archive.
