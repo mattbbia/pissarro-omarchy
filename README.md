@@ -28,24 +28,26 @@ This theme includes six carefully selected paintings:
 ---
 ## Color Palette
 ### Backgrounds
-![](https://placehold.co/80x24/f1f3ea/f1f3ea.png) `#F1F3EA`
-![](https://placehold.co/80x24/83847d/83847d.png) `#83847D`
-![](https://placehold.co/80x24/1a1d05/1a1d05.png) `#1A1D05`
-![](https://placehold.co/80x24/373c1a/373c1a.png) `#373C1A`
+![](https://placehold.co/120x24/f1f3ea/000000?text=%23F1F3EA)
+![](https://placehold.co/120x24/83847d/ffffff?text=%2383847D)
+![](https://placehold.co/120x24/1a1d05/ffffff?text=%231A1D05)
+![](https://placehold.co/120x24/373c1a/ffffff?text=%23373C1A)
+
 ### Olive Accents
-![](https://placehold.co/80x24/585000/585000.png) `#585000`
-![](https://placehold.co/80x24/7a7300/7a7300.png) `#7A7300`
-![](https://placehold.co/80x24/687013/687013.png) `#687013`
-![](https://placehold.co/80x24/8a9605/8a9605.png) `#8A9605`
-![](https://placehold.co/80x24/527100/527100.png) `#527100`
-![](https://placehold.co/80x24/719800/719800.png) `#719800`
+![](https://placehold.co/120x24/585000/ffffff?text=%23585000)
+![](https://placehold.co/120x24/7a7300/ffffff?text=%237A7300)
+![](https://placehold.co/120x24/687013/ffffff?text=%23687013)
+![](https://placehold.co/120x24/8a9605/000000?text=%238A9605)
+![](https://placehold.co/120x24/527100/ffffff?text=%23527100)
+![](https://placehold.co/120x24/719800/000000?text=%23719800)
+
 ### Lavender Accents
-![](https://placehold.co/80x24/50419a/50419a.png) `#50419A`
-![](https://placehold.co/80x24/735ed0/735ed0.png) `#735ED0`
-![](https://placehold.co/80x24/68559b/68559b.png) `#68559B`
-![](https://placehold.co/80x24/8d74ce/8d74ce.png) `#8D74CE`
-![](https://placehold.co/80x24/8252ba/8252ba.png) `#8252BA`
-![](https://placehold.co/80x24/aa6ef2/aa6ef2.png) `#AA6EF2`
+![](https://placehold.co/120x24/50419a/ffffff?text=%2350419A)
+![](https://placehold.co/120x24/735ed0/ffffff?text=%23735ED0)
+![](https://placehold.co/120x24/68559b/ffffff?text=%2368559B)
+![](https://placehold.co/120x24/8d74ce/000000?text=%238D74CE)
+![](https://placehold.co/120x24/8252ba/ffffff?text=%238252BA)
+![](https://placehold.co/120x24/aa6ef2/000000?text=%23AA6EF2)
 
 ---
 ## Included Theme Components
