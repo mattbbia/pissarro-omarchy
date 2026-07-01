@@ -48,17 +48,28 @@ This theme includes six carefully selected paintings:
 ![](https://placehold.co/120x24/8252ba/ffffff?text=%238252BA)
 ![](https://placehold.co/120x24/aa6ef2/000000?text=%23AA6EF2)
 
-## Included Theme Components
+## Components
 
-- Wallpapers
+- Aether
+- Alacritty
+- btop
+- Chromium
+- Foot
+- Ghostty
+- GTK
 - Hyprland
-- Waybar
+- Hyprlock
+- Kitty
+- Mako
 - Neovim
-- Btop
+- SwayOSD
+- Vencord
 - VS Code
-- Terminal colors (`colors.toml`)
-- Icons
-- Light mode configuration
+- Walker
+- Warp
+- Waybar
+- Wofi
+- Zellij
 
 ## Installation
 
