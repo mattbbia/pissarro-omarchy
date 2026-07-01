@@ -2,16 +2,16 @@
 
 A light Omarchy theme inspired by the landscapes and city scenes of Camille Pissarro.
 
+![GitHub stars](https://img.shields.io/github/stars/mattbbia/pissarro-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/pissarro-omarchy?style=flat-square)
+
 ![Omarchy Camille Pissarro Theme](preview.png)
 
----
 ## Inspiration
 
 Camille Pissarro (1830–1903) was a Danish-French Impressionist painter known for his depictions of everyday life, landscapes, and urban scenes. His paintings are celebrated for their natural light, atmospheric perspective, and harmonious use of color.
 
 I chose Pissarro for the soft earth tones, muted greens, and warm creams that translate beautifully into a desktop environment that is both functional and relaxing to use for long periods.
 
----
 ## Wallpaper Gallery
 
 This theme includes six carefully selected paintings:
@@ -25,7 +25,6 @@ This theme includes six carefully selected paintings:
 | ![Place du Carrousel, Paris](backgrounds/Place%20Du%20Carrousel%20Paris%201900.jpg) | Place du Carrousel, Paris (1900) |
 | ![The Louvre, Afternoon, Rainy Weather](backgrounds/The%20Louvre%20Afternoon%20Rainy%20Weather%201900.jpg) | The Louvre, Afternoon, Rainy Weather (1900) |# Wallpaper Gallery
 
----
 ## Color Palette
 ### Backgrounds
 ![](https://placehold.co/120x24/f1f3ea/000000?text=%23F1F3EA)
@@ -49,7 +48,6 @@ This theme includes six carefully selected paintings:
 ![](https://placehold.co/120x24/8252ba/ffffff?text=%238252BA)
 ![](https://placehold.co/120x24/aa6ef2/000000?text=%23AA6EF2)
 
----
 ## Included Theme Components
 
 - Wallpapers
@@ -62,12 +60,13 @@ This theme includes six carefully selected paintings:
 - Icons
 - Light mode configuration
 
----
 ## Installation
 
 Clone the repository into your Omarchy themes directory:
 
-	`omarchy-theme-install https://github.com/mattbbia/pissarro-omarchy.git`
+```bash
+omarchy-theme-install https://github.com/mattbbia/pissarro-omarchy.git
+```
 ### OR
 
 1. Open the Omarchy menu (**Super + Alt + Space**).
@@ -75,12 +74,24 @@ Clone the repository into your Omarchy themes directory:
 3. Paste this repo URL: `https://github.com/mattbbia/pissarro-omarchy.git`
 4. Hit Enter.
 
----
+## Contributing
+
+Contributions, bug reports, feature requests, and suggestions are always welcome. Feel free to open an issue or submit a pull request.
+
+## Support
+
+If you enjoy this theme and would like to support future themes, you can:
+
+⭐ Star this repository
+💡 Suggesting new themes
+☕ Supporting future themes
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/mattbbia)
+
 ## Acknowledgements
 
 All artwork by Camille Pissarro is in the public domain. The high-resolution source images used in this theme were obtained from [National Gallery of Art](https://www.nga.gov/) and are included here for appreciation and preservation of public-domain art.
 
----
 ## License
 
-The theme configuration files are released under the MIT License. Public-domain artwork remains subject to the attribution and usage guidelines provided by the originating museum or archive.
+This project is licensed under the MIT License. See the LICENSE file for details.
