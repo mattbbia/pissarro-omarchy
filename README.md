@@ -82,9 +82,9 @@ Contributions, bug reports, feature requests, and suggestions are always welcome
 
 If you enjoy this theme and would like to support future themes, you can:
 
-⭐ Star this repository
-💡 Suggesting new themes
-☕ Supporting future themes
+- ⭐ Star this repository
+- 💡 Suggesting new themes
+- ☕ Supporting future themes
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/mattbbia)
 
